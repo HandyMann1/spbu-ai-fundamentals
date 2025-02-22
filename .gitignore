@@ -151,3 +151,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+kaggle_house_prices/._data_description.txt
+kaggle_house_prices/._test.csv
+kaggle_house_prices/._train.csv
+kaggle_house_prices/data_description.txt
+kaggle_house_prices/test.csv
+kaggle_house_prices/train.csv
+.gitignore
